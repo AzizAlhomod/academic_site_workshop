@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-#Currenlty
+## Currently
 
 Clinical Informatics Fellow - Emeregncy Physician  at OHSU 
 
