@@ -1,9 +1,9 @@
 ---
 layout: resume
 ---
-## Currently
+## Clinical Informatics Fellow - Emeregncy Physician 
 
-Current Position Description
+at OHSU 
 
 ## Education
 
