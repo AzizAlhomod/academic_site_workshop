@@ -1,9 +1,9 @@
 ---
 layout: resume
 ---
-## Clinical Informatics Fellow - Emeregncy Physician 
+#Currenlty
 
-at OHSU 
+Clinical Informatics Fellow - Emeregncy Physician  at OHSU 
 
 ## Education
 
